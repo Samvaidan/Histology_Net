@@ -1,0 +1,155 @@
+[14:37:11.296] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:37:11.296] saved_model
+[14:37:11.320] 0 test iterations per epoch
+[14:39:42.590] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:39:42.590] saved_model
+[14:39:42.591] 0 test iterations per epoch
+[14:40:10.412] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:40:10.412] saved_model
+[14:40:16.034] 519 test iterations per epoch
+[14:40:38.991] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:40:38.991] saved_model
+[14:40:40.674] 519 test iterations per epoch
+[14:42:15.491] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:42:15.492] saved_model
+[14:42:17.018] 519 test iterations per epoch
+[14:44:35.703] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:44:35.703] saved_model
+[14:44:37.025] 519 test iterations per epoch
+[14:44:59.837] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:44:59.837] saved_model
+[14:45:01.211] 519 test iterations per epoch
+[14:46:50.982] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:46:50.982] saved_model
+[14:46:52.376] 519 test iterations per epoch
+[14:51:17.480] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:51:17.480] saved_model
+[14:51:18.846] 519 test iterations per epoch
+[14:51:36.329] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:51:36.329] saved_model
+[14:51:38.277] 519 test iterations per epoch
+[14:54:25.013] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:54:25.013] saved_model
+[14:54:26.530] 519 test iterations per epoch
+[14:56:27.116] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:56:27.116] saved_model
+[14:56:28.575] 519 test iterations per epoch
+[14:57:39.921] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[14:57:39.921] saved_model
+[14:57:41.306] 519 test iterations per epoch
+[15:00:08.113] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:00:08.113] saved_model
+[15:00:09.494] 519 test iterations per epoch
+[15:00:47.579] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:00:47.579] saved_model
+[15:00:48.830] 519 test iterations per epoch
+[15:04:40.422] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:04:40.422] saved_model
+[15:04:41.819] 519 test iterations per epoch
+[15:05:57.495] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:05:57.495] saved_model
+[15:05:59.162] 519 test iterations per epoch
+[15:06:38.261] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:06:38.261] saved_model
+[15:06:39.879] 519 test iterations per epoch
+[15:07:26.450] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:07:26.450] saved_model
+[15:07:27.807] 519 test iterations per epoch
+[15:09:28.061] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:09:28.061] saved_model
+[15:09:29.717] 519 test iterations per epoch
+[15:09:50.642] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:09:50.642] saved_model
+[15:09:52.224] 519 test iterations per epoch
+[15:10:23.844] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:10:23.844] saved_model
+[15:10:25.287] 519 test iterations per epoch
+[15:10:51.878] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:10:51.879] saved_model
+[15:10:53.267] 519 test iterations per epoch
+[15:11:10.954] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:11:10.954] saved_model
+[15:11:12.342] 519 test iterations per epoch
+[15:11:36.321] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:11:36.321] saved_model
+[15:11:37.692] 519 test iterations per epoch
+[15:12:28.967] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:12:28.967] saved_model
+[15:12:30.342] 519 test iterations per epoch
+[15:13:44.494] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:13:44.494] saved_model
+[15:13:45.863] 519 test iterations per epoch
+[15:15:42.324] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:15:42.324] saved_model
+[15:15:43.702] 519 test iterations per epoch
+[15:16:00.191] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:16:00.192] saved_model
+[15:16:01.804] 519 test iterations per epoch
+[15:16:31.102] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:16:31.103] saved_model
+[15:16:32.563] 519 test iterations per epoch
+[15:17:36.594] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:17:36.595] saved_model
+[15:17:38.058] 519 test iterations per epoch
+[15:31:20.478] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:31:20.478] saved_model
+[15:33:02.594] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:33:02.594] saved_model
+[15:35:41.082] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:35:41.082] saved_model
+[15:38:00.205] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:38:00.206] saved_model
+[15:41:24.235] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:41:24.235] saved_model
+[15:41:25.894] 519 test iterations per epoch
+[15:41:50.363] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:41:50.364] saved_model
+[15:41:51.764] 519 test iterations per epoch
+[15:42:10.532] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:42:10.532] saved_model
+[15:42:11.955] 519 test iterations per epoch
+[15:42:41.215] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:42:41.215] saved_model
+[15:42:42.819] 519 test iterations per epoch
+[15:43:52.504] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:43:52.504] saved_model
+[15:43:53.938] 519 test iterations per epoch
+[15:44:55.293] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:44:55.293] saved_model
+[15:44:56.627] 519 test iterations per epoch
+[15:45:48.324] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:45:48.325] saved_model
+[15:45:49.700] 519 test iterations per epoch
+[15:47:09.389] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:47:09.389] saved_model
+[15:47:10.807] 519 test iterations per epoch
+[15:49:07.716] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:49:07.717] saved_model
+[15:49:09.071] 519 test iterations per epoch
+[15:49:28.182] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:49:28.182] saved_model
+[15:49:29.560] 519 test iterations per epoch
+[15:52:18.870] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:52:18.870] saved_model
+[15:52:20.404] 519 test iterations per epoch
+[15:54:56.977] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:54:56.977] saved_model
+[15:54:58.394] 519 test iterations per epoch
+[15:55:29.920] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:55:29.920] saved_model
+[15:55:31.286] 519 test iterations per epoch
+[15:59:10.738] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:59:10.739] saved_model
+[15:59:12.278] 519 test iterations per epoch
+[15:59:54.713] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[15:59:54.713] saved_model
+[15:59:56.089] 519 test iterations per epoch
+[16:03:23.158] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[16:03:23.158] saved_model
+[16:03:24.526] 519 test iterations per epoch
+[16:07:23.229] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[16:07:23.229] saved_model
+[16:07:24.656] 519 test iterations per epoch
+[16:08:11.434] Namespace(volume_path='../data/Synapse/test_vol_h5', dataset='Synapse', num_classes=1, list_dir='./lists/lists_Synapse', max_iterations=20000, max_epochs=100, batch_size=24, img_size=256, is_savenii=True, n_skip=3, vit_name='R50-ViT-B_16', test_save_dir='predictions', deterministic=1, base_lr=0.01, seed=1234, vit_patches_size=16, Dataset=<class 'datasets.dataset_zenodo.Zenodo_dataset'>, z_spacing=1, is_pretrain=True, exp='TU_Synapse256')
+[16:08:11.434] saved_model
+[16:08:12.792] 519 test iterations per epoch

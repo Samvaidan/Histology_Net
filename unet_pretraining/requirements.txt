@@ -1,0 +1,9 @@
+numpy
+matplotlib
+Pillow
+opencv
+scikit-learn
+pytorch
+torchvision
+pytorch-cuda=11.8
+monai
